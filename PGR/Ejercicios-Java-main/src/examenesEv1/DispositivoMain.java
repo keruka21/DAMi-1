@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 
 /*Crea un programa principal con un menú repetitivo que gestione el almacenamiento de hasta 25 dispositivos. El menú mostrará las siguientes opciones (cada una implementada con un método estático). 
 Ten en cuenta que las opciones 2 a 6 no podrán ejecutarse si aún no se ha añadido ningún dispositivo. Controla los errores y muestra mensajes informativos cuando proceda.

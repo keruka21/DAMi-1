@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 
 /*Crea un programa que solicite un número entero positivo e indique si se lee igual de izquierda a derecha que de derecha a izquierda.
 Ejemplos:

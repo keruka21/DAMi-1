@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 /*Crea un programa que solicite un número entero positivo e indique si es un número perfecto.
 Un número es perfecto cuando es igual a la suma de todos sus divisores positivos, excluyéndose a sí mismo.
 

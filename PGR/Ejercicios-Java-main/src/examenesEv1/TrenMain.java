@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 
 /*Una vez creada la clase anterior y utilizando cuando se precise, los métodos en ella implementados, vamos a diseñar
 un programa que gestione todos los trenes con salida desde Bilbao.

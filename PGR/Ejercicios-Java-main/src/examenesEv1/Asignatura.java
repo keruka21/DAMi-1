@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 
 /*Crea una clase llamada Asignatura que tendrá los siguientes atributos:
 	Nombre (PGR, FOL, ...)

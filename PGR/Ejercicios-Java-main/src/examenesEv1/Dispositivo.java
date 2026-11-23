@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 
 /*Crea una clase llamada Dispositivo con los siguientes atributos privados: 
 	String nombre (Nombre del dispositivo)

@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 
 /*EJERCICIO 1
 Crea una clase llamada Tren que tendrá los siguientes atributos:

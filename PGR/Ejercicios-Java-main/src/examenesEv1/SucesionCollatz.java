@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 
 /*Crea un programa que solicite un número entero positivo y genere su sucesión hasta llegar a 1.
 Las reglas son las siguientes:

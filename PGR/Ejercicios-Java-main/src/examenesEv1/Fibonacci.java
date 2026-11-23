@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 
 /*Sucesión de Fibonacci
 El programa pedirá al usuario un número (N) y mostrará los N primeros números de la sucesión de Fibonacci.

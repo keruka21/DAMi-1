@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 /*Digital Root
 Crea un programa en Java que calcule el número raíz (también conocido como digital root) de un número entero positivo.
 El número raíz se obtiene sumando los dígitos del número hasta que quede un solo dígito.

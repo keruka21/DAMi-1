@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 
 /*Una vez creada la clase NaveEspacial, diseña un programa que gestione una misión de exploración espacial con un máximo de 50 naves espaciales. El programa tendrá un menú repetitivo con las siguientes opciones que deben ser realizadas mediante métodos estáticos: 
 

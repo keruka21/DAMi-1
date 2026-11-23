@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 
 /*Una vez creada la clase anterior, vamos a diseñar un programa que me gestione todas las asignaturas de nuestro instituto (máximo 100 asignaturas).
 El programa tendrá un menú repetitivo como se especifica a continuación:

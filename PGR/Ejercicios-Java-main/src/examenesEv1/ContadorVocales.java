@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 
 /*Una aplicación educativa quiere analizar las palabras que escriben sus usuarios para conocer cuántas vocales contienen.
 Desarrolla un programa en Java que solicite al usuario una palabra y cuente cuántas vocales contiene (a, e, i, o, u).

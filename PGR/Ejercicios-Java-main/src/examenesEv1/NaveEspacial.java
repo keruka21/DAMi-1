@@ -1,4 +1,4 @@
-package examenes;
+package examenesEv1;
 
 /* ========================================================================================
  * ENUNCIADO DEL EXAMEN: GESTIÓN DE NAVES ESPACIALES
